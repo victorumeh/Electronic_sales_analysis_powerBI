@@ -31,8 +31,6 @@ The report uses **9 custom DAX measures**, including 5 time intelligence functio
 | **Yearly Sales Visualization (2)** | Zone cost distribution, channel performance, year-over-year pie chart, and top KPIs |
 <img width="587" height="331" alt="Screenshot_sales vs cost" src="https://github.com/user-attachments/assets/c99b2a3b-54d9-421c-87eb-4ceb963bb6dc" />
 
-> 📁 The `.pbix` file is included in this repository. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-
 ---
 
 ## Key Performance Metrics
